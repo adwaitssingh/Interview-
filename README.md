@@ -18,6 +18,8 @@ Guest: Organizations can foster teamwork by establishing a collaborative work en
 Interviewer: Finally, what advice do you have for individuals looking to improve their teamwork skills?
 Guest: Be open to learning from others and recognizing the strengths they bring to the table. Communication is key, so make an effort to express your thoughts clearly and listen actively to your teammates. Embrace feedback as an opportunity for growth, and always be willing to contribute your skills to the collective success of the team.
 Interviewer: Thank you, Saurabh, for sharing your insights on teamwork. It's been a pleasure having you with us today.
+
+//bro wtf is this
 Guest: Thank you for having me. Teamwork is truly a cornerstone of success.
 Saurabh’s insights to the topic was very helpful it helped us to look into it in a larger scale, teamwork is not only present between human beings but also among other things even by just stepping outside and looking outside we can see tons of examples. In familial settings, effective teamwork is often pivotal in the allocation of household responsibilities, harmonizing diverse schedules, and navigating the complexities of familial dynamics. Whether organizing family events, managing household chores, or addressing challenges, a collaborative approach fosters a sense of unity and shared responsibility.
 In educational settings, students frequently engage in collaborative projects, leveraging each other's strengths to achieve common academic goals. Group assignments, extracurricular activities, and study sessions are instances where teamwork becomes instrumental in enhancing the overall learning experience and academic achievements.
